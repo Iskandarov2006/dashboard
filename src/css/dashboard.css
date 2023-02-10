@@ -1,0 +1,49 @@
+.Statistic{
+    display: flex;
+    align-items: flex-end;
+    justify-content: start;
+    border-left: 2px solid red;
+    border-bottom: 2px solid red;
+    box-shadow: 0 5px 10px red ;
+    width: 963px;
+    margin: 15px 0 0 0;
+    height: 90vh;
+}
+.div{
+    display: flex;
+    align-items: flex-end;
+}
+.davlat{
+    width: 22px;
+    height: 95px;
+    display: inline-block;
+    background: blue;
+    color: white;
+    margin: 0 0 0 5px;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.dav1{
+    height: 150px;
+}
+.dav2{
+    height: 123px;
+}
+.dav3{
+    height: 200px;
+}
+.dav4{
+    height: 238px;
+}
+.dav5{
+    height: 480px;
+}
+.davlat span{
+    transform: rotate(-90deg);
+    display: flex;
+    align-items: flex-end;
+    justify-content: start;
+    margin-left: -0.5rem;
+    width: 150px;
+}
